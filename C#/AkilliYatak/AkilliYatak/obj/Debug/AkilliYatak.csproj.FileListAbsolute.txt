@@ -1,0 +1,11 @@
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\bin\Debug\AkilliYatak.exe.config
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\bin\Debug\AkilliYatak.exe
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\bin\Debug\AkilliYatak.pdb
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\obj\Debug\AkilliYatak.csproj.AssemblyReference.cache
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\obj\Debug\AkilliYatak.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\obj\Debug\AkilliYatak.Form1.resources
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\obj\Debug\AkilliYatak.Properties.Resources.resources
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\obj\Debug\AkilliYatak.csproj.GenerateResource.cache
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\obj\Debug\AkilliYatak.csproj.CoreCompileInputs.cache
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\obj\Debug\AkilliYatak.exe
+C:\Users\Xirap\Desktop\AkilliYatak\C#\AkilliYatak\AkilliYatak\obj\Debug\AkilliYatak.pdb
